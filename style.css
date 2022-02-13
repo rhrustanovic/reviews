@@ -1,0 +1,37 @@
+.title{
+
+}
+.underline{}
+
+#person-img{
+    width: 170px;
+    height: 170px;
+    border-radius: 50%;
+    box-shadow: 0px 7px  lightblue inset;
+}
+
+#author{}
+
+#job{}
+
+#info{}
+
+.button-container{
+    box-sizing: border-box;
+    margin: 5px;
+    width: 100px;
+    height: 10px;
+    color: rgb(96, 188, 231);
+    background-color: lightgreen;
+    
+   
+    
+}
+
+.button-container i{
+float: left;
+font-weight: bold;
+align-items: center;
+}
+
+
